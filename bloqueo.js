@@ -5,7 +5,7 @@ function verificarRecordatorioPorURL() {
     var agenciasDeudoras = [
         {
             urlMatch: "crm.lig01.com/agency_launchpad", // O el dominio que desees bloquear
-            fechaBloqueo: "2026-10-05", // Fecha en la que aparecerá el bloqueo (AAAA-MM-DD)
+            fechaBloqueo: "2026-10-02", // Fecha en la que aparecerá el bloqueo (AAAA-MM-DD)
             // Puedes poner un correo (mailto:...) o un link de WhatsApp (https://wa.me/...)
             linkSoporte: "mailto:soporte@tuagencia.com" 
         }
